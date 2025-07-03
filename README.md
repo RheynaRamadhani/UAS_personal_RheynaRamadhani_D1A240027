@@ -6,9 +6,9 @@ Studi kasus ini bertujuan untuk membangun sebuah aplikasi web personal yang bers
 
 Website ini memiliki dua bagian utama:
 
-1.Halaman Publik, yang dapat diakses oleh semua pengunjung.
+1. Halaman Publik, yang dapat diakses oleh semua pengunjung.
 
-2.Halaman Admin, yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
+2. Halaman Admin, yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 
 Fitur-fitur
 
@@ -28,10 +28,10 @@ Fitur-fitur
 
 Teknologi yang Digunakan
 
-1.Bahasa Pemrograman : PHP
-2.Database : MySQL
-3.Frontend : Tailwind CSS, HTML
-4.Server Side : Apache / XAMPP
+1. Bahasa Pemrograman : PHP
+2. Database : MySQL
+3. Frontend : Tailwind CSS, HTML
+4. Server Side : Apache / XAMPP
 
 Struktur Folder
 
